@@ -4,13 +4,13 @@ React focused Web Developer with a passion for creating software that solves an 
 
 **Skills**
 
-**Core Languages:**JavaScript(ES6), PHP, HTML, CSS, Python. 
+**Core Languages:** JavaScript(ES6), PHP, HTML, CSS, Python. 
 
 **Front-end:** React, Vue, REST API, D3, Redux, jQuery, Bootstrap, Materialize, SASS, EJS, Ajax, JSON, JSONP, Gulp, Web Pack and Bable.
 
 **Back-end**: Node js, Express, MongoDb, MySQL, sequelize, Laravel, nginx, Apache, Linux, SSH, BASH scripting, CORS, Jinja and Flask.
 
-##Projects
+## Projects
 
 ### Eventler(**<https://eventler.app>**): 
 
@@ -38,4 +38,4 @@ Oversaw all aspects of operations while developing and coaching new leaders for 
 
 **UCF Coding Bootcamp, March 2018 - June 2018: Graduated**
 
-**Valencia community college, In progress. **
+**Valencia community college, In progress.** 
