@@ -1,4 +1,4 @@
-##Profile
+## Profile
 
 React focused Web Developer with a passion for creating software that solves an organization's complex problems while producing clean maintainable code. Relentless problem solver with a drive to learn each and every day. 
 
@@ -12,7 +12,7 @@ React focused Web Developer with a passion for creating software that solves an 
 
 ##Projects
 
-###Eventler(**<https://eventler.app>**): 
+### Eventler(**<https://eventler.app>**): 
 
 **Summary:** Event management application that helps non profits increase event attendance by easing the  registration process for their guests with an innovative registration system.
 
@@ -20,7 +20,7 @@ React focused Web Developer with a passion for creating software that solves an 
 
 **Technologies used:** React, Express, Oauth, Google Vision, JWT, Node, MongoDB, Digital Ocean, Nginx, Webpack, Twilio, and node mailer.
 
-###Letsdolunch(<https://germangamboa95.github.io/letsDoLunch/>):
+### Letsdolunch(<https://germangamboa95.github.io/letsDoLunch/>):
 
 **Summary:** Social app that helps teams answer the age old question of where to have lunch. It is aimed at streamlining the process by using an Approval Voting system which ensures most of the voters are content with the decision. 
 
@@ -28,13 +28,13 @@ React focused Web Developer with a passion for creating software that solves an 
 
 **Technologies used:** VanillaJS , Firebase, jQuery, Express, Node, google places and google maps. 
 
-##Work Experience
+## Work Experience
 
 **General Manager , Zax LLC, Orlando Fl --- 2013 - 2018**
 
 Oversaw all aspects of operations while developing and coaching new leaders for the company. Increased overall unit performance by 70% while also drastically reducing employee turnover.
 
-##Education:
+## Education:
 
 **UCF Coding Bootcamp, March 2018 - June 2018: Graduated**
 
